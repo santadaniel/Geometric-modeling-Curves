@@ -1,0 +1,3 @@
+C:/Users/Dani/Egyetem/forthSem/Grafika/secondHomeWork/cmake-build-debug/CMakeFiles/HF_CLion_Template.dir
+C:/Users/Dani/Egyetem/forthSem/Grafika/secondHomeWork/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dani/Egyetem/forthSem/Grafika/secondHomeWork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
